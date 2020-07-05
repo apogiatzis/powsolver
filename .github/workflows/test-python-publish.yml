@@ -4,8 +4,9 @@
 name: Publish Python Package (Test PyPi)
 
 on:
-  release:
-    types: [created]
+  create:
+    tags:
+      - v*
 
 jobs:
   deploy:
