@@ -10,6 +10,7 @@ pipenv-setup = "*"
 setuptools = "*"
 wheel = "*"
 twine = "*"
+keyring = "==19.2.0"
 
 [packages]
 parse = "*"
