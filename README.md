@@ -1,5 +1,6 @@
 # PoWSolver (WIP)
 
+[![PyPI version](https://badge.fury.io/py/powsolver.svg)](https://badge.fury.io/py/powsolver)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
