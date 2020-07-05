@@ -18,7 +18,7 @@ setup(
         "six==1.15.0",
     ],
     name="powsolver",
-    version="0.1.6",
+    version="0.1.7",
     description="Proof of Work solver mainly for CTF challenges",
     url="http://github.com/apogiatzis/powsolver",
     author="Antreas Pogiatzis",
