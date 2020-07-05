@@ -5,6 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 bump2version = "*"
+black = "==19.10b0"
 
 [packages]
 parse = "*"
