@@ -3,6 +3,7 @@
 [![PyPI version](https://badge.fury.io/py/powsolver.svg)](https://badge.fury.io/py/powsolver)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fapogiatzis%2Fpowsolver.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fapogiatzis%2Fpowsolver?ref=badge_shield)
 
 
 
@@ -59,3 +60,6 @@ See also the list of [contributors](https://github.com/apogiatzis/powsolver/cont
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fapogiatzis%2Fpowsolver.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fapogiatzis%2Fpowsolver?ref=badge_large)
